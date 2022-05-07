@@ -9,19 +9,21 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> Languages and Tools:</h3>
 
-- JavaScript
-- HTML5
-- CSS3
-- GitHub
-- Visual Studio Code
-- React
-- Bootstrap
-- Chrome DevTools
-- Sass
-- ASP.NET
-- Canva
+<div font-size="20px" display="flex" justify-content="center">
+    - JavaScript
+    - HTML5
+    - CSS3
+    - GitHub
+    - Visual Studio Code
+    - React
+    - Bootstrap
+    - Chrome DevTools
+    - Sass
+    - ASP.NET
+    - Canva
+</div>
 
 <br>
 
