@@ -11,7 +11,8 @@
 
 <h3 align="center"> Languages and Tools:</h3>
 
-<ul font-size="30px">
+<h3>
+<ul>
 <li> JavaScript </li>
 <li> HTML5 </li>
 <li> CSS3 </li>
@@ -24,6 +25,7 @@
 <li> jQuery </li>
 <li> Canva </li>
 </ul>
+</h3>
 
 <h3 align="center"> 📫 Connect with me</h3>
 
