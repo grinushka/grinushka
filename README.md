@@ -31,9 +31,8 @@
 
 <h3 align="center" font-style="italic" >Email: slv.violetta@gmail.com</h3>
 
-<h3 align="center">Socials:</h3>
-
-<div align="center">
+<div align="center" display="inline">
+<h3>Socials:</h3>
 
 [![GitHub](https://img.shields.io/github/followers/grinushka?style=social)](https://github.com/grinushka)
 &ensp;
