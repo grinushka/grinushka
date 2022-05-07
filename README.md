@@ -5,7 +5,7 @@
 <h3 align="center">  
 :books: I’m learning JS, HTML and CSS using "The Odin Project" curriculum and Open Web Resources.</h3>
 
-<h3 align="center" >Hope to find my place in the industry soon!</h3>
+<h3 align="center" > <i>Hope</i> to find my place in the industry soon!</h3>
 
 <br>
 
@@ -24,6 +24,8 @@
 <li> jQuery </li>
 <li> Canva </li>
 </ul>
+
+<br>
 
 <h3 align="center"> 📫 Connect with me</h3>
 
