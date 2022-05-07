@@ -11,8 +11,7 @@
 
 <h3 align="center"> Languages and Tools:</h3>
 
-<ul display="flex" justify-content="center">
-
+<ul display="flex" flex-direction="row" justify-content="center">
 <li> JavaScript </li>
 <li> HTML5 </li>
 <li> CSS3 </li>
@@ -24,7 +23,6 @@
 <li> Sass </li>
 <li> jQuery </li>
 <li> Canva </li>
-
 </ul>
 
 <br>
