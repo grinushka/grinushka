@@ -10,17 +10,21 @@
 <br>
 
 <h3 align="center"> Languages and Tools:</h3>
-    - JavaScript
-    - HTML5
-    - CSS3
-    - GitHub
-    - Visual Studio Code
-    - React
-    - Bootstrap
-    - Chrome DevTools
-    - Sass
-    - ASP.NET
-    - Canva
+
+<div>
+JavaScript
+HTML5
+CSS3
+GitHub
+Visual Studio Code
+React
+Bootstrap
+Chrome DevTools
+Sass
+jQuery
+Canva
+</div>
+
 <br>
 
 <h3 align="center"> 📫 Connect with me</h3>
