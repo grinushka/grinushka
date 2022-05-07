@@ -3,7 +3,7 @@
 <h3 align="center"> Happy to see you on my GitHub Page :wink:</h3>
 
 <h3 align="center">  
-:books: &ensp; I’m learning JS, HTML and CSS using "The Odin Project" curriculum and Open Web Resources.</h3>
+:books: I’m learning JS, HTML and CSS using "The Odin Project" curriculum and Open Web Resources.</h3>
 
 <h3 align="center" font-style="italic">Hope to find my place in the industry soon!</h3>
 
@@ -11,19 +11,21 @@
 
 <h3 align="center"> Languages and Tools:</h3>
 
-<div>
-JavaScript
-HTML5
-CSS3
-GitHub
-Visual Studio Code
-React
-Bootstrap
-Chrome DevTools
-Sass
-jQuery
-Canva
-</div>
+<ul display="flex" justify-content="center">
+
+<li> JavaScript </li>
+<li> HTML5 </li>
+<li> CSS3 </li>
+<li> GitHub </li>
+<li> Visual Studio Code </li>
+<li> React </li>
+<li> Bootstrap </li>
+<li> Chrome DevTools </li>
+<li> Sass </li>
+<li> jQuery </li>
+<li> Canva </li>
+
+</ul>
 
 <br>
 
