@@ -11,7 +11,7 @@
 
 <h3 align="center"> Languages and Tools:</h3>
 
-<ul display="flex" flex-direction="row" justify-content="center">
+<ul font-size="30px">
 <li> JavaScript </li>
 <li> HTML5 </li>
 <li> CSS3 </li>
@@ -24,8 +24,6 @@
 <li> jQuery </li>
 <li> Canva </li>
 </ul>
-
-<br>
 
 <h3 align="center"> 📫 Connect with me</h3>
 
