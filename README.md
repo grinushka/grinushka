@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Violet! :v: </h1>
-<h2 align="center"> Currently I am on my way to becoming a full-fledged Front-end Developer! </h2>
+<h2 align="center"> Currently I am on my way to becoming a Front-end Developer! </h2>
 <h3 align="center"> Happy to see you on my GitHub Page :wink:</h3>
 
 <h3 align="center">  
