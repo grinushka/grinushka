@@ -17,7 +17,6 @@
 <li> CSS3 </li>
 <li> GitHub </li>
 <li> Visual Studio Code </li>
-<li> React </li>
 <li> Bootstrap </li>
 <li> Chrome DevTools </li>
 <li> Sass </li>
