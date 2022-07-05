@@ -3,7 +3,7 @@
 <h3 align="center"> Happy to see you on my GitHub Page :wink:</h3>
 
 <h3 align="center">  
-:books: I’m learning JavaScript, HTML and CSS using "The Odin Project" curriculum and Open Web Resources.</h3>
+:books: I’m learning JavaScript, HTML and CSS using Open Web Resources.</h3>
 
 <h3 align="center" > Hope to find my place in the industry soon!</h3>
 
