@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Violet!</h1>
-<h3 align="center"> Happy to see you on my GitHub Page :wink:</h3>
+<h3 align="center"> Happy to see you on my GitHub Page :v:</h3>
 
 <br>
 
