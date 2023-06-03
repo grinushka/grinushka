@@ -15,7 +15,5 @@
 [![Twitter](https://img.shields.io/twitter/follow/grinushka)](https://twitter.com/grinushka)
 &ensp;
 [![Codewars](https://img.shields.io/badge/Codewars-grinushka-red)](https://www.codewars.com/users/grinushka)
-&ensp;
-[![Vk](https://img.shields.io/badge/Vk-follow-blue)](https://vk.com/grinushka)
 
 </div>
