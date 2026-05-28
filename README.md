@@ -5,7 +5,7 @@
 
 <h4 align="center"> 📫 Connect with me</h4>
 
-<h5 align="center"> Email: slv.violetta@gmail.com </h5>
+<h5 align="center"> Email: violet.vlrn@gmail.com </h5>
 
 <div align="center" display="flex">
 <h3>Socials</h3>
