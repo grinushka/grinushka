@@ -1,5 +1,4 @@
 <h1> Hey, I'm Violet</h1>
-<h2> Happy to see you on my GitHub Page :v:</h3>
 
 <h4> 📫 Connect with me</h4>
 
